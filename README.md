@@ -32,6 +32,6 @@ This repository contains various threat intelligence used in offensive cyber ope
 * *Recent Observations (as of October 2020)*
   * *Coming Soon...*
 * *Malware Operation by Group*
-  * [View Groups](https://github.ec.va.gov/Caleb-Comer/MDATP/tree/master/Malware%20Operations#threat-groups)
+  * [View Groups](/Malware%20Operations#threat-groups)
 * *Malware Operation by Family*
-  * [View Families](https://github.ec.va.gov/Caleb-Comer/MDATP/tree/master/Malware%20Operations#malware-families)
+  * [View Families](/Malware%20Operations#malware-families)
