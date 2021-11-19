@@ -3,9 +3,9 @@ This repository contains various threat intelligence used in offensive cyber ope
 
 ### Advanced Operations
 * *Public Trackers*
-  * [View Trackers](https://github.ec.va.gov/Caleb-Comer/MDATP/tree/master/Advanced%20Operations#advanced-operation-public-trackers)
+  * [View Trackers](/Advanced%20Operations#advanced-operation-public-trackers)
 * *Operation Discovery by Year*
-  * [View Timeline](https://github.ec.va.gov/Caleb-Comer/MDATP/tree/master/Advanced%20Operations#timeline-of-known-operations-year-revealed)
+  * [View Timeline](/Advanced%20Operations#timeline-of-known-operations-year-revealed)
 * *Threat Groups by State*
   * <details>
     <summary>United States of America (USA)</summary>
